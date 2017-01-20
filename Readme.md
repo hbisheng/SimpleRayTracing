@@ -16,4 +16,5 @@ Features:
 
 4. Texure for plane and sphere.
 
-Demo: see cube.png
+Demo: 
+![](bin/cube.png)
